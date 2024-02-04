@@ -7,6 +7,14 @@
   font-family: "Manrope", sans-serif;
   font-size: 15px;
 }
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
 
 a {
   text-decoration: none;
